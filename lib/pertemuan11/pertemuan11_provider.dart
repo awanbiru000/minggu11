@@ -25,6 +25,14 @@ class Pertemuan11Provider extends ChangeNotifier {
         "price": 1500000,
         "rating": 4.1
       },
+      {
+        "model": "Sony",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Sony_Xperia_Z.JPG/200px-Sony_Xperia_Z.JPG",
+        "developer": "Sony Mobile",
+        "price": 1500000,
+        "rating": 4.1
+      },
     ]
   };
 
