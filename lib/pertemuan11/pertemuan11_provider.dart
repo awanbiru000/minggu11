@@ -102,6 +102,46 @@ class Pertemuan11Provider extends ChangeNotifier {
         "price": 2500000,
         "rating": 5
       },
+      {
+        "model": "HP EliteBook",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_Elitebook_820_G4.png/250px-HP_Elitebook_820_G4.png",
+        "developer": "HP",
+        "price": 2500000,
+        "rating": 5
+      },
+      {
+        "model": "HP EliteBook",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_Elitebook_820_G4.png/250px-HP_Elitebook_820_G4.png",
+        "developer": "HP",
+        "price": 2500000,
+        "rating": 5
+      },
+      {
+        "model": "HP EliteBook",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_Elitebook_820_G4.png/250px-HP_Elitebook_820_G4.png",
+        "developer": "HP",
+        "price": 2500000,
+        "rating": 5
+      },
+      {
+        "model": "HP EliteBook",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_Elitebook_820_G4.png/250px-HP_Elitebook_820_G4.png",
+        "developer": "HP",
+        "price": 2500000,
+        "rating": 5
+      },
+      {
+        "model": "HP EliteBook",
+        "img":
+            "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/HP_Elitebook_820_G4.png/250px-HP_Elitebook_820_G4.png",
+        "developer": "HP",
+        "price": 2500000,
+        "rating": 5
+      },
     ]
   };
 
